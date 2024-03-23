@@ -1,7 +1,5 @@
 ### 👋  Kim Sang Ik
 
-<br/><br/> 
-
 <div align=center>
 <h3 align="center">🧑🏻‍💻 Tech Stack</h3>
 
@@ -10,7 +8,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-<br/><br/> 
+<br/>
 
 <h3 align="center">🛠️ Tools</h3>
 
